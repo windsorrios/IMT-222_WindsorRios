@@ -1,14 +1,14 @@
 Repositorio para la materia de sistemas embebidos
 
-Sistema inteligente de administración de medicamentos para adultos mayores
+##Sistema inteligente de administración de medicamentos para adultos mayores
 
-Planteamiento del problema
+##Planteamiento del problema
 
 En población adulta mayor, pacientes polimedicados y personas con rutinas exigentes, el olvido de tomas y los errores de dosificación son frecuentes. 
 
 Esto reduce la adherencia terapéutica, aumenta descompensaciones y genera costos sanitarios. Las soluciones manuales (alarmas del teléfono, pastilleros semanales) dependen de la disciplina del usuario y no garantizan la entrega física de la dosis ni un registro de cumplimiento. Se requiere un dispositivo accesible, confiable y de bajo costo que combine recordatorio, control horario y mecanismo de dispensación para disminuir el error humano y mejorar la adherencia.
 
-OBJETIVO GENERAL
+##OBJETIVO GENERAL
 
 Diseñar e implementar un pastillero inteligente basado en Arduino que avise la hora de toma y dispense automáticamente la medicación programada, registrando la confirmación del usuario.
 
